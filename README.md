@@ -19,7 +19,7 @@
 
 1. **Клонируйте репозиторий:**
 ```bash
-git clone https://github.com/Matvick108/Telegram-Bot-Rock-Paper-Scissors.git
+git clone https://github.com/Git-CmdServ/Telegram-Bot-Rock-Paper-Scissors.git
 ```
 
 2. **Перейдите в папку проекта:**
